@@ -2,6 +2,7 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/logo.png" width="500px" />
 </h1>
 
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tonybsilva-dev/CoronaData?color=%2304D361">
   <a href="https://github.com/Tonybsilva-dev/CoronaData/commits/master">
@@ -18,7 +19,7 @@
   </a>
 
 </p>
-
+<h3 align="center"> https://tonybsilva-dev.github.io/CoronaData/ </h3>
 <h1>CoronaData</h1>
 <span>An application to chart the progress of COVID-19 in the world</span>
 
@@ -27,8 +28,10 @@
 ## Starting the application:
 
 <h6>Project</h6>
+
 ```
 yarn start # Inicializa o React
+
 ```
 
 ## Ferramentas Utilizadas:
