@@ -23,7 +23,9 @@
 <h1>CoronaData</h1>
 <span>An application to chart the progress of COVID-19 in the world</span>
 
-
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/demo.gif" width="500px" />
+</h1>
 
 ## Starting the application:
 
