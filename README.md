@@ -39,6 +39,7 @@ yarn start # Inicializa o React
 ## Ferramentas Utilizadas:
 <ul>
   <li>React</li>
+  <li>Axios</li>
   <li>Yarn</li>
 </ul>
 
